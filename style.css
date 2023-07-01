@@ -1,0 +1,24 @@
+/* Scrollbar is hidden for all pages*/
+
+* ::-webkit-scrollbar {
+    display: none;
+  }
+
+/* Bg index home */
+
+#bg-index {
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    background: url(images/bg.png);
+    background-size: repeat;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: #fff;
+    border: 5px solid white;
+}
+

@@ -1,0 +1,6 @@
+{
+    "livePreview.defaultPreviewPath": "d:\\Githubbed\\CA - 304\\index.html",
+    "zenMode.hideActivityBar": false,
+    "editor.wordWrap": "on",
+    "python.formatting.provider": "black"
+}
